@@ -1,2 +1,2 @@
 # hello_world
-Repositorio de prueba del tutorial de GiyHub
+Repositorio de prueba del tutorial de GitHub
